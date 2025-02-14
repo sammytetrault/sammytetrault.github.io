@@ -1,12 +1,21 @@
 ---
-title: "sammytetrault.github.io"
+title: Sammy Tetrault
+image: 20240614_123707.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 18em
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sammy-tetrault-20662025b/
+    - icon: github
+      text: Github
+      href: https://github.com/sammytetrault
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi there! I'm Sammy, an Ecosystem Science & Sustainability Student at Colorado State University. As you can probably tell by my picture, I am a nature enthusiast and love being out in the field! I am looking for positions that would allow me to practice what I've learned in the classroom in a hands-on, professional environment.
 
 ```{r}
-
-1 + 1
 ```

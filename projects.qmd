@@ -1,0 +1,14 @@
+---
+title: "Projects"
+links:
+ - text: https://sammytetrault.github.io
+   href: https://sammytetrault.github.io
+---
+
+This semester at CSU (Spring 2025) I am taking ESS330, Quantitative Reasoning. In this course we are learning to use R and RStudio. We will be using R to do data analysis, as well as other projects, like this website!
+
+Below are links to all of the projects I have completed in this course:
+
+1\) For this project, we created a quarto website and learned how to create a site with Github pages, link websites, and customize the theme. Check out my github linked on the home page to see the repository with all of the code for this.
+
+<https://sammytetrault.github.io>

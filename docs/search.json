@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sammytetrault.github.io",
+    "title": "Sammy Tetrault",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! I’m Sammy, an Ecosystem Science & Sustainability Student at Colorado State University. As you can probably tell by my picture, I am a nature enthusiast and love being out in the field! I am looking for positions that would allow me to practice what I’ve learned in the classroom in a hands-on, professional environment."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,103 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "DE5 ESS330_files/DE5 ESS330.html",
+    "href": "DE5 ESS330_files/DE5 ESS330.html",
+    "title": "DE5 ESS330",
+    "section": "",
+    "text": "# 1. Examine at the dataset using the ?Help page\n\n# 2. what is the class of the penguins dataset? data.frame\n\n# 3. what is the structure of the penguins dataset? List\n\n# 4. what are the dimensions of the penguins dataset? 344 rows, 8 columns\n\n# 5. what are the column names of the penguins dataset? Species, island, bill_length_mm, bill_depth_mm, flipper_length_mm, body_mass_g, sex, year\n\n# 6. what type of data is `flipper_length_mm` and `Island`? flipper_length_mm is int type and Island is factor type\n\n# 7. what is the mean flipper length of the penguins? 200.9152mm\n\n# 8. what is the standard deviation of flipper length in the penguins? 14.06171mm\n\n# 9. what is the median body mass of the penguins? 4050g\n\n# 10. what is the Island of the 100th penguin? Dream Island"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/tester.html",
+    "href": "exercise-04-csu/docs/tester.html",
+    "title": "tester",
+    "section": "",
+    "text": "getwd()\n\n[1] \"C:/Users/sammy/OneDrive/Desktop/ESS330/sammytetrault.github.io/exercise-04-csu/docs\"\n\nfile.exists('../img/quartoflow.png')\n\n[1] TRUE\n\nknitr::include_graphics('../img/quartoflow.png')"
+  },
+  {
+    "objectID": "exercise-04-csu/DE5 ESS330.html",
+    "href": "exercise-04-csu/DE5 ESS330.html",
+    "title": "DE5 ESS330",
+    "section": "",
+    "text": "# 1. Examine at the dataset using the ?Help page\n\n# 2. what is the class of the penguins dataset? data.frame\n\n# 3. what is the structure of the penguins dataset? List\n\n# 4. what are the dimensions of the penguins dataset? 344 rows, 8 columns\n\n# 5. what are the column names of the penguins dataset? Species, island, bill_length_mm, bill_depth_mm, flipper_length_mm, body_mass_g, sex, year\n\n# 6. what type of data is `flipper_length_mm` and `Island`? flipper_length_mm is int type and Island is factor type\n\n# 7. what is the mean flipper length of the penguins? 200.9152mm\n\n# 8. what is the standard deviation of flipper length in the penguins? 14.06171mm\n\n# 9. what is the median body mass of the penguins? 4050g\n\n# 10. what is the Island of the 100th penguin? Dream Island"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html",
+    "href": "exercise-04-csu/docs/daily-04.html",
+    "title": "ESS 330 Actvity 4",
+    "section": "",
+    "text": "Fork a Github Repo\nMeet Quarto\nSee some basic data"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html#objectives",
+    "href": "exercise-04-csu/docs/daily-04.html#objectives",
+    "title": "ESS 330 Actvity 4",
+    "section": "",
+    "text": "Fork a Github Repo\nMeet Quarto\nSee some basic data"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html#your-assignment",
+    "href": "exercise-04-csu/docs/daily-04.html#your-assignment",
+    "title": "ESS 330 Actvity 4",
+    "section": "Your Assignment:",
+    "text": "Your Assignment:\n\nRead though this document in both rendered and raw .qmd to review Quarto syntax.\nChange the author in the YML to your name\nModify the city threshold to 100,000 (no comma!!)\nRe-knit the document\nFrom the knit document, right click on the final map image and save it to the img directory.\nPush your changes back to your repo\nSubmit the URL to your repo and the saved image to the Canvas Dropbox."
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html#data-usa-cites",
+    "href": "exercise-04-csu/docs/daily-04.html#data-usa-cites",
+    "title": "ESS 330 Actvity 4",
+    "section": "Data: USA Cites",
+    "text": "Data: USA Cites\nAccessed 01/28/2025 from: Simplemaps\n\n\n\n\n\n\nNote\n\n\n\nIn your rendered document, this is a call out!. Note both the notation for this, and the hyperlink notation for the Simple maps link above"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html#ymal",
+    "href": "exercise-04-csu/docs/daily-04.html#ymal",
+    "title": "ESS 330 Actvity 4",
+    "section": "YMAL",
+    "text": "YMAL\n---\ntitle: \"My First Quarto Document\"\nauthor: \"Sammy Tetrault\"\ndate: February 11th, 2025\nformat: html\n---"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html#quarto-formatting-basics",
+    "href": "exercise-04-csu/docs/daily-04.html#quarto-formatting-basics",
+    "title": "ESS 330 Actvity 4",
+    "section": "Quarto formatting basics",
+    "text": "Quarto formatting basics\n\nBlock Quote:\n\nQuarto provides an authoring framework for data science. You can use a single R Markdown file to both"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html#header-2-h2",
+    "href": "exercise-04-csu/docs/daily-04.html#header-2-h2",
+    "title": "ESS 330 Actvity 4",
+    "section": "Header 2 (H2)",
+    "text": "Header 2 (H2)\n\nHeader 2 (H3)\n\nHeader 4 (H4)\n\nHeader 5 (H5)\n\na bulletpointed\nlist of\nthings\n\nand\nsmaller\nthings\n\n\n\nOr a\nnumbered list\nof things\n\nMaybe with some nested sections\nlike this\n\nThen something else…\n\nI can make something bold with double asterisk(*), or italicized with single asterisks.\nMake something superscriptedUP or subscriptedDOWN\nI can add a regular hyperlink by just writing the URL: https://github.com/mikejohnson51/csu-ess-330\nOr I can have linked text.\nI can add an image:\n\n\n\nHere’s a fun globe\n\n\nAnd I can refine the image:\n\n\n\nHere’s a smaller one\n\n\nOr I can use knitr directly!\n\n\n\n\n\n\n\n\n\nI can also add document breaks with *****:"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html#snippets",
+    "href": "exercise-04-csu/docs/daily-04.html#snippets",
+    "title": "ESS 330 Actvity 4",
+    "section": "Snippets",
+    "text": "Snippets\nAll code is run is code snippets. Code snippets can be auto generated with:\nCmd/Ctrl + Alt + I\nor by clicking “insert” and then “R”\n\nIn each code block, you can add cell options that affect the execution and output of executable code blocks. All options start with #| and can be within comments at the top of a block. For example:\n#| eval: false\n...\nThe following table summarizes which types of output each option suppresses:\n\n\n\n\n\n\n\n\n\n\n\n\nOption\nRun code\nShow code\nOutput\nPlots\nMessages\nWarnings\n\n\n\n\neval: false\nX\n\nX\nX\nX\nX\n\n\ninclude: false\n\nX\nX\nX\nX\nX\n\n\necho: false\n\nX\n\n\n\n\n\n\nresults: “hide”\n\n\nX\n\n\n\n\n\nfig.show: “hide”\n\n\n\nX\n\n\n\n\nmessage: false\n\n\n\n\nX\n\n\n\nwarning: false\n\n\n\n\n\nX\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nQuarto supports the creation of markdown tables, look at the qmd file on how to generate the above table"
+  },
+  {
+    "objectID": "exercise-04-csu/docs/daily-04.html#in-line-code",
+    "href": "exercise-04-csu/docs/daily-04.html#in-line-code",
+    "title": "ESS 330 Actvity 4",
+    "section": "In line code:",
+    "text": "In line code:\nWe can evaluate R variables and code in-line. For example, there are 457 cities with a population greater then 100,000.\nHere is a map!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This semester at CSU (Spring 2025) I am taking ESS330, Quantitative Reasoning. In this course we are learning to use R and RStudio. We will be using R to do data analysis, as well as other projects, like this website!\nBelow are links to all of the projects I have completed in this course:\n1) For this project, we created a quarto website and learned how to create a site with Github pages, link websites, and customize the theme. Check out my github linked on the home page to see the repository with all of the code for this.\nhttps://sammytetrault.github.io"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Sammy Tetrault\nFort Collins, CO | 970-215-0685 | samanthajoantetrault@gmail.com | sammytet@colostate.edu\nEducation\nBachelor of Science, Ecosystem Science & Sustainability | CSU, Fort Collins, CO\nExpected Graduation Fall 2025, GPA: 4.0\nMinor in Applied Environmental Policy\nAssociate of General Studies | Front Range Community College, Fort Collins, CO\nConferred May 2023, GPA: 4.0\nProfessional Experience\nResearch Assistant\nCSU Department of Agricultural Biology, Fort Collins, CO | June 2024 - Present\n\nPrepared research materials and planted 2800 seeds for each of the three trials conducted.\nCollected and entered plant emergence, height, herbicide injury, and vigor data daily.\nHarvested the sprout, roots, and soil of individuals with true leaves for biomass measurements.\nCurrently assisting with data sorting and analysis using Microsoft Excel and R.\n\nUndergraduate Teaching Assistant\nCSU, Fort Collins, CO | January 2024 - May 2024\n\nSupported a graduate teaching assistant for a LIFE102 lab section by retrieving lab materials, answering student questions, and facilitating group discussions.\nProvided demonstrations to students for hands-on activities such as pipetting.\nTaught a lab at the end of the semester to a group of 20 students.\n\nRelevant Coursework\nLIFE320, Ecology\nCSU, Fort Collins, CO | Spring 2024\n\nLearned about fundamental ecological concepts such as nutrient cycling, plant physiology, plant responses to disturbance, biotic & abiotic interactions, and population dynamics.\nRead several scientific papers and became familiar with salient ecological issues such as the proliferation of Emerald Ash Borers.\n\nAdditional Experience\nSales Floor Associate\nKohl’s, Fort Collins, CO | April 2022 - April 2024\n\nAssisted customers both over the phone and in person by answering questions, recommending brands, processing returns, and resolving customer concerns at the service desk.\nOperated the register in a fast and efficient manner while ensuring customer satisfaction. \nTrained new associates.\nFulfilled online orders by picking and packing items from the floor."
   }
 ]

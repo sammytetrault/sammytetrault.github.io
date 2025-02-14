@@ -3,18 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "sammytetrault.github.io"
+  title: "Sammy Tetrault"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - icon: github
+        href: https://github.com/sammytetrault
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sammy-tetrault-20662025b/
+  page-footer: 
+    background: light
+    left: Copyright 2025, Sammy Tetrault
+    right: This website is built with {{< fa heart title="made with love" >}}, {{< fa user-group title = "the help of CSU peers and teachers" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/sammytetrault/sammytetrault.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}
+    
 format:
   html:
-    theme: cosmo
+    theme: styles.scss
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
