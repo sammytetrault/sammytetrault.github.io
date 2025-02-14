@@ -20,7 +20,7 @@ website:
   page-footer: 
     background: light
     left: Copyright 2025, Sammy Tetrault
-    right: This website is built with {{< fa heart title="made with love" >}}, {{< fa user-group title = "the help of CSU peers and teachers" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/sammytetrault/sammytetrault.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank},[Freepik - Flaticon](https://www.flaticon.com){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}
+    right: This website is built with {{< fa heart title="made with love" >}}, {{< fa user-group title = "the help of CSU peers and teachers" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/sammytetrault/sammytetrault.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank},[Freepik - Flaticon](https://www.flaticon.com/){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}
     
 format:
   html:
